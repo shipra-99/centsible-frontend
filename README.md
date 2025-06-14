@@ -37,7 +37,7 @@ https://github.com/shipra-99/centsible-backend.git
 
 ```bash
 git clone https://github.com/shipra-99/centsible-frontend.git
-cd centisible
+cd centisible-frontend
 
 npm install
 npm start
